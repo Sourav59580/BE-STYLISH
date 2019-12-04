@@ -1,0 +1,21 @@
+@media(max-width:768px)
+{
+#search_box{
+    width:90%;
+    left:5%;
+    right:5%;
+}
+#header-slider h1{
+    font-size:30px;
+}
+#header-slider p{
+    font-size:15px;
+}
+.desktop-img{
+    width:100%;
+}
+#founder{
+    width: 100%;
+    padding: 10px;
+}
+}

@@ -1,0 +1,3 @@
+<video loop autoplay muted id="video">
+            <source src="images/video_preview.webm" type="video/webm">
+        </video>
